@@ -18,6 +18,13 @@ By giving a tag a corresponding folder path, it makes it easy to reason about wh
 -   `Unregister Tag Path`
 -   `Move File via Tag Path`
 
+### Installation Instructions
+-   `cd <my_vault>/.obsidian/plugins` 
+-   `git clone https://github.com/jacob-danner/obsidian-tag-path.git`
+-   `cd obsidian-tag-path`
+-   `npm i`
+-   `npm run build`
+
 ### Be Aware Of
 
 -   Paths _do not get validated for existence_. Creating a valid path is the responsibility of the user.
