@@ -1,4 +1,4 @@
-# Obsidian Plugin Template
+# Obsidian Tag Path
 
 ## Summary
 
