@@ -1,8 +1,8 @@
 {
-    "id": "sample-plugin",
-    "name": "Sample Plugin",
-    "version": "0.0.0",
-    "description": "Obsidian Plugin Template.",
+    "id": "tag-path",
+    "name": "Tag Path",
+    "version": "0.1.0",
+    "description": "Tag Path Plugin.",
     "author": "Jacob Danner",
     "isDesktopOnly": false
 }
